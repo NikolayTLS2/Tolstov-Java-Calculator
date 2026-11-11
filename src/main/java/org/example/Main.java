@@ -7,7 +7,7 @@ public class Main {
         Calculator calculator = new Calculator();
 
         double a = 30;
-        double b = 5;
+        double b = 6;
 
         System.out.println("================================");
         System.out.println("       JAVA CALCULATOR");
