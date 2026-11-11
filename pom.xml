@@ -48,7 +48,6 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <!-- Здесь указываем путь к вашему главному классу -->
                             <mainClass>org.example.Main</mainClass>
                         </manifest>
                     </archive>
